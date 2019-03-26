@@ -15,7 +15,8 @@ I will try to analyse how it is like to working in one of the biggest tech compa
 * Do a matrix correlation to find possible correlations between the different scoring. EX: High compensatoin -> Low Work/Balance?
 
 # Resource
-Over 67k employee reviews for Google, Amazon, Facebook, Apple, and Microsoft
+Over 67k employee reviews for Google, Amazon, Facebook, Apple, and Microsoft.
+This data was scraped from Glassdoor, a webpage to review your current company/job position.
 
 *Columns*
 * index
