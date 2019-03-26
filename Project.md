@@ -2,7 +2,7 @@
 
 # How is it like working at the Big Tech Companies?
 
-I will try to analyse how it is liketo working in one of the biggest tech companies available.
+I will try to analyse how it is liketo working in one of the biggest tech companies available. My main motivation is that soon I will be job searching and I want to know what is the standards, main positives and negatives of tech companies, etc... And what better than to compare to the biggest ones.
 
 # Possible focus points
 Where should I work if I don't want to leave far from Barcelona?
