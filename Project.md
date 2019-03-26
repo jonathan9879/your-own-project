@@ -2,14 +2,17 @@
 
 # How is it like working at the Big Tech Companies?
 
-I will try to analyse how it is liketo working in one of the biggest tech companies available. My main motivation is that soon I will be job searching and I want to know what is the standards, main positives and negatives of tech companies, etc... And what better than to compare to the biggest ones.
+I will try to analyse how it is like to working in one of the biggest tech companies available. My main motivation is that soon I will be job searching and I want to know what I should expect, main positives and negatives of tech companies, etc... And what better than to compare to the biggest ones.
 
 # Possible focus points
-Where should I work if I don't want to leave far from Barcelona?
+What is the best location to work in?
+Where should I work if I want to be in the nearest possible location from Barcelona?
 Where should I go if I just want money?
-What words are most commonly used per each company review?
-Best company to work in by country?
-Is the a correlation between a long bad review and a bad score? Is shorter bad reviews correlated to good scores?
+What words are most commonly used per each company review? (Possible word cloud usage?)
+Best company to work in by country? Best country to work in by company?
+Is the a correlation between a long "bad" review and a bad score? Is shorter bad reviews correlated to good scores?
+And what about the "good" reviews length? Does it affect scores?
+Do a matrix correlation to find possible correlations between the different scoring. EX: High compensatoin -> Low Work/Balance?
 
 # Resource
 Over 67k employee reviews for Google, Amazon, Facebook, Apple, and Microsoft
