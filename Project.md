@@ -12,7 +12,7 @@ I will try to analyse how it is like to working in one of the biggest tech compa
 * Best company to work in by country? Best country to work in by company?
 * Is the a correlation between a long "bad" review and a bad score? Is shorter bad reviews correlated to good scores?
 * And what about the "good" reviews length? Does it affect scores?
-* Do a matrix correlation to find possible correlations between the different scoring. EX: High compensatoin -> Low Work/Balance?
+* Do a matrix correlation to find possible correlations between the different scoring. EX: High compensation -> Low Work/Balance?
 
 # Resource
 Over 67k employee reviews for Google, Amazon, Facebook, Apple, and Microsoft.
